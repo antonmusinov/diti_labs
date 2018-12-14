@@ -1,4 +1,4 @@
-package ru.diti.lab1.arrays.impl;
+package ru.diti.lab1.arrays;
 
 public interface ArraysCreateAndManipulation {
     void createArrayUser();

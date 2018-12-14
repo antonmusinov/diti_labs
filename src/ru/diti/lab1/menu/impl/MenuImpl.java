@@ -1,6 +1,6 @@
 package ru.diti.lab1.menu.impl;
 
-import ru.diti.lab1.arrays.impl.ArraysCreateAndManipulation;
+import ru.diti.lab1.arrays.ArraysCreateAndManipulation;
 import ru.diti.lab1.arrays.impl.ArraysCreateAndManipulationImpl;
 import ru.diti.lab1.menu.Menu;
 import ru.diti.lab1.user.User;

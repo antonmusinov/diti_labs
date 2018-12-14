@@ -1,5 +1,7 @@
 package ru.diti.lab1.arrays.impl;
 
+import ru.diti.lab1.arrays.ArraysCreateAndManipulation;
+
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.IntStream;
